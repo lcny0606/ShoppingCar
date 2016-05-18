@@ -1,0 +1,75 @@
+﻿/*utf-8 */
+html,body{ margin:0px; padding:0px; font-size:14px; font-family:Microsoft YaHei; color:#333;}
+a{ text-decoration:none; color:#333;}
+a:hover{ text-decoration:none;}
+p,ul,li,form,h1,h2,h3,h4,h5,h6,dl,dt,dd,img,div,table,td,th,input,textarea{ margin:0px; padding:0px;}
+input,textarea{font-family:Tahoma, Geneva, sans-serif; outline:none; font-size:14px;}
+table,td{ border-collapse:collapse;}
+ul,li,dl,dt,dd,ol{ list-style:none;}
+img{ border:none;overflow:hidden;}
+em,i{ font-style:normal;}
+tr{padding:0}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;}
+
+
+/**index**/
+.in_body{background:#f9f9f9;padding-top:20px;position:relative}
+.mid{width:940px;margin:50px auto 0 auto;position:relative;}
+.zhang{margin:20px 0}
+.input{width:520px;margin:0 auto}
+#sub{border-radius:5px;width:45px;border:1px #BFB5B9 solid}
+.fenge{height:50px}
+.tab{width:520px;margin:0 auto;}
+.tab tr:nth-child(even){background:#D7D6D6}
+.jion{width:50px;height:20px;background:#27b7d5;font-size:12px;color:#FFF;border-radius:5px;border:1px #4A3C16 solid}
+.car_click{background:#fff;height:30px;width:90px;border:1px #333 solid;border-radius:5px;display:block;
+position:absolute;right:215px;bottom:-46px}
+.top{position:fixed;left;0;top:0;background:#27b7d5;width:100%;}
+.top_bj{color:#FFF;margin-left:20px;line-height:20px}
+.top_bj span{margin-right:10px}
+.top_bj img {border:1px #FFF solid;border-radius:25px}
+.out_login{color:#FFF;float:right;margin-top:7px;margin-right:10px}
+.car{position:relative}
+.car_add{position:absolute;right:251px;top:-30px;display:none}
+
+
+/**登录**/
+.login_body{background:url(../images/login.jpg) center;position:relative}
+.car_mid{width:400px;height:300px;margin:0 auto;}
+.car_mid p{font-size:25px;color:#FFF;text-align:center;width:360px}
+.car_mid table{color:#FFF;width:340px;margin:0 auto;font-size:20px}
+.inp{width:230px;height:27px;padding-left:5px}
+.btn{width:70px;height:30px;border-radius:5px;background:#C3B5AC;float:right;margin-right:62px;color:#FFF}
+.register{width:70px;height:30px;border-radius:5px;background:#C3B5AC;float:left;margin-right:62px;color:#FFF}
+
+/**注册**/
+.reg_mid{width:380px;height:230px;margin:40px auto 0 auto;display:none;position:absolute;top:14%;left:37%;border:1px solid #FFF;
+border-radius:7px;background:#FFF;padding:20px 0 0 20px}
+.box_form{margin:8px 0 0 50px}
+.reg_mid table{width:300px}
+.box_black{background:black;opacity:0.1;width:100%;height:100%}
+.login_body_mid{}
+.login_body_top{width:100%;height:100px}
+
+/**个人设置**/
+.person_mid{width:360px;margin:0 auto}
+.person_top{width:100%;background:#27b7d5;margin-bottom:20px;height:33px}
+.person_p{font-size:20px;color:#FFF;margin-left:78px}
+.person_return{float:right;margin:6px 40px 0 0}
+.person_return span{font-size:14px;color:#FFF;}
+.person_inp{width:220px;height:25px;padding-left:5px;border-radius:5px;border:1px #27b7d5 solid }
+.person_sub{width:77px;height:25px;background:#27b7d5;font-size:14px;font-weight:bold;color:#FFF;
+float:right;border-radius:5px;border:1px #FFF solid}
+.avatar{width:90px;margin:0 auto}
+.avatar_cir{width:100px;height:100px;display:block;border-radius:49px;position:relative;margin-bottom:20px}
+.avatar_cir img{position:absolute;left:12px;top:12px;border-radius:55px;border:2px #27b7d5 solid;}
+
+
+/**购物车**/
+.car_tab{margin:50px auto 50px auto;width:400px;border:1px #333 solid}
+
+
+
+
+
