@@ -1,7 +1,7 @@
-# ShoppingCar
+ï»¿# ShoppingCar
 
 ##LI Yang's first php project
 
-####Ò»¸öÁ·ÊÖµÄ¸öÈËÏîÄ¿£¬µ¼Èëshoppingcar.sql £¬¸ü¸Äconn.php ÖÐÊý¾Ý¿âÅäÖÃ¼´¿É
+####ä¸€ä¸ªç»ƒæ‰‹çš„ä¸ªäººé¡¹ç›®ï¼Œå¯¼å…¥shoppingcar.sql ï¼Œæ›´æ”¹conn.php ä¸­æ•°æ®åº“é…ç½®å³å¯
 
-#### Ð»Ð»ä¯ÀÀ
+#### è°¢è°¢æµè§ˆ
